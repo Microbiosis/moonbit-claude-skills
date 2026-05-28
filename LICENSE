@@ -1,0 +1,60 @@
+# MoonBit Claude Skills License
+
+## Source Attribution
+
+This project contains Claude Code skills based on the [MoonBit documentation](https://github.com/moonbitlang/moonbit-docs).
+
+## Original License
+
+The MoonBit documentation uses a split licensing model:
+
+### Prose Content
+- **Added on or after July 4, 2024**: Available under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)
+- **Added before July 4, 2024**: Copyright reserved
+
+### Code Examples & Snippets
+Licensed under [Apache License 2.0](https://www.apache.org/licenses/LICENSE-2.0)
+
+### Website Code
+Licensed under [Apache License 2.0](https://www.apache.org/licenses/LICENSE-2.0)
+
+## This Project
+
+The Claude Code skills in this repository are derived from the MoonBit documentation and are provided under the following terms:
+
+1. **Code snippets and technical content**: Subject to Apache License 2.0
+2. **Prose descriptions and explanations**: Subject to CC BY-SA 4.0 (for content added on or after July 4, 2024)
+
+## Attribution
+
+- **Original source**: [moonbitlang/moonbit-docs](https://github.com/moonbitlang/moonbit-docs)
+- **License**: Apache 2.0 / CC BY-SA 4.0
+- **Modifications**: Adapted into Claude Code skills format
+
+## Apache License 2.0
+
+```
+Licensed under the Apache License, Version 2.0 (the "License");
+you may not use this file except in compliance with the License.
+You may obtain a copy of the License at
+
+    http://www.apache.org/licenses/LICENSE-2.0
+
+Unless required by applicable law or agreed to in writing, software
+distributed under the License is distributed on an "AS IS" BASIS,
+WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+See the License for the specific language governing permissions and
+limitations under the License.
+```
+
+## CC BY-SA 4.0
+
+This work is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-sa/4.0/).
+
+You are free to:
+- **Share** - copy and redistribute the material in any medium or format
+- **Adapt** - remix, transform, and build upon the material for any purpose, even commercially
+
+Under the following terms:
+- **Attribution** - You must give appropriate credit, provide a link to the license, and indicate if changes were made
+- **ShareAlike** - If you remix, transform, or build upon the material, you must distribute your contributions under the same license as the original
