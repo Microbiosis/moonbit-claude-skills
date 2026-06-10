@@ -1,6 +1,6 @@
 # MoonBit Claude Code Skills
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20502916.svg)](https://doi.org/10.5281/zenodo.20502916)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20502915.svg)](https://doi.org/10.5281/zenodo.20502915)
 
 Claude Code skills for MoonBit language development, based on the official [MoonBit documentation](https://github.com/moonbitlang/moonbit-docs).
 
